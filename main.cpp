@@ -1,6 +1,6 @@
 #include <iostream>
 
-void quickshort(){
+void bubbleshort(){
 	//
 }
 int main(){
